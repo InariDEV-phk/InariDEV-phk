@@ -1,10 +1,11 @@
 ## Hi there 👋
 My name is Pedro Kuninari, hence why "InariDEV"!
 I'm still in the learning stages, but I already know:<br>
--HTML <br>
--CSS
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)<br>
 
-Currently starting to learn JavaScript. Nice to meet you!
+Currently starting to learn ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E). 
+Nice to meet you!
 
 <!--
 **InariDEV-phk/InariDEV-phk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
