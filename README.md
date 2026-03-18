@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Pedro Kuninari, hence why "InariDEV"!
-I'm still in the learning stages, but I already know:
--HTML
+I'm still in the learning stages, but I already know:<br>
+-HTML <br>
 -CSS
 
 Currently starting to learn JavaScript. Nice to meet you!
