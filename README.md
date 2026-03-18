@@ -7,6 +7,9 @@ I'm still in the learning stages, but I already know:<br>
 Currently starting to learn ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
 Nice to meet you!
 
+[![Inari stats](https://github-readme-stats.vercel.app/api?username=InariDEV-phk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InariDEV-phk)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **InariDEV-phk/InariDEV-phk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
