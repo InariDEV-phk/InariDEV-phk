@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Pedro Kuninari, hence why "InariDEV"!
+I'm still in the learning stages, but I already know:
+-HTML
+-CSS
+
+Currently starting to learn JavaScript. Nice to meet you!
 
 <!--
 **InariDEV-phk/InariDEV-phk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
